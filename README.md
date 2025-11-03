@@ -18,3 +18,6 @@ Ce projet est un exercice pratique sur Git.
 
 ## Fonctionnalités
 - Module de calcul
+
+Ligne ajoutée depuis GitHub.
+
